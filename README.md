@@ -1,2 +1,2 @@
 # slack-task-manager
-to slack using gas 
+this is task managing app on slack channel
